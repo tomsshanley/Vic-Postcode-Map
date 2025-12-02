@@ -2,6 +2,8 @@
 
 A React application that visualizes Victorian postcode boundaries on an interactive map. Users can input a list of postcodes, and the application fetches the corresponding boundary data from the Vicmap Admin ArcGIS API and displays them as polygons.
 
+![alt text](image.png)
+
 ## Features
 
 -   **Postcode Input**: Accepts a comma-separated list of Victorian postcodes.
